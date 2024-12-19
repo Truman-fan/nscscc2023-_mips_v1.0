@@ -7,4 +7,4 @@
    |
    |--source                        : 等级测试和监控程序软件包
    |
-   |--windows_env_v0.01/            : Windows系统用监控程序编译环境（内有说明文件README.txt）
+   |--windows_env_v0.01/            : 文件太大，暂时没有上传，Windows系统用监控程序编译环境（内有说明文件README.txt）
