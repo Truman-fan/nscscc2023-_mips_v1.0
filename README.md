@@ -9,4 +9,4 @@
     
 (2)**.gitattributes**：利用lfs上传带来的附文件，可不用理会。
   
-(3)**README.md**:本文件。
+(3)**README.md**：本文件。
